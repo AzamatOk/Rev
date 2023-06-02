@@ -1,0 +1,11 @@
+F:\ИВТ13\Reversii\Reversii\bin\Debug\Reversii.exe.config
+F:\ИВТ13\Reversii\Reversii\bin\Debug\Reversii.exe
+F:\ИВТ13\Reversii\Reversii\bin\Debug\Reversii.pdb
+F:\ИВТ13\Reversii\Reversii\obj\Debug\Reversii.csproj.AssemblyReference.cache
+F:\ИВТ13\Reversii\Reversii\obj\Debug\Reversii.csproj.SuggestedBindingRedirects.cache
+F:\ИВТ13\Reversii\Reversii\obj\Debug\Reversii.Form1.resources
+F:\ИВТ13\Reversii\Reversii\obj\Debug\Reversii.Properties.Resources.resources
+F:\ИВТ13\Reversii\Reversii\obj\Debug\Reversii.csproj.GenerateResource.cache
+F:\ИВТ13\Reversii\Reversii\obj\Debug\Reversii.csproj.CoreCompileInputs.cache
+F:\ИВТ13\Reversii\Reversii\obj\Debug\Reversii.exe
+F:\ИВТ13\Reversii\Reversii\obj\Debug\Reversii.pdb
